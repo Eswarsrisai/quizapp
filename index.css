@@ -64,33 +64,3 @@ body {
   color: green;
 }
 
-#timerBox {
-  margin: 10px 0;
-  font-weight: bold;
-  color: #fb8500;
-}
-
-#restartBtn {
-  margin-top: 10px;
-  padding: 10px;
-  background-color: #ffb703;
-  border: none;
-  color: white;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-.progress {
-  background: #ccc;
-  height: 10px;
-  border-radius: 5px;
-  overflow: hidden;
-  margin-bottom: 15px;
-}
-
-#progressBar {
-  background: #219ebc;
-  height: 100%;
-  width: 0%;
-  transition: width 0.3s ease;
-}
